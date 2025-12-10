@@ -600,10 +600,10 @@ All screenshots (1-27) demonstrate:
 
 ## 👨‍💻 Author
 
-**Mathivarnan**
-- Email: mathi@gmail.com
-- Assignment: Distributed Travel Booking Platform
-- Technologies: Spring Boot 3.2.0, Spring Cloud, Feign Client, WebClient
+**Mathivarnan .V**
+- Email: mathivarman24mv@gmail.com
+- Index : ICT21887
+
 
 ---
 
@@ -618,4 +618,3 @@ This project successfully demonstrates:
 6. ✅ **Proper error handling** and validation
 7. ✅ **Resource management** (seats and rooms properly reserved)
 
-The platform is production-ready for basic travel booking operations! 🚀
